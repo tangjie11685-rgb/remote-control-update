@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/tangjie11685-rgb/remote-control-update@main/apk/remote-control-v1.0.0.apk",
-  "note": "远程遥控 v1.0.0 首版：通过 ZeroTier 内网远程控制电脑，支持单指移动鼠标、单击、双指滚动、键盘输入（含中文）。"
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "apkUrl": "https://cdn.jsdelivr.net/gh/tangjie11685-rgb/remote-control-update@main/remote-control-v1.0.0.apk",
+    "note": "远程遥控 v1.0.0 首版：通过 ZeroTier 内网远程控制电脑，支持单指移动鼠标、单击、双指滚动、键盘输入（含中文）。"
 }
